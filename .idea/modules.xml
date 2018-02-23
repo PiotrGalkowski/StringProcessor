@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StringProcess.iml" filepath="$PROJECT_DIR$/.idea/modules/StringProcess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StringProcess_main.iml" filepath="$PROJECT_DIR$/.idea/modules/StringProcess_main.iml" group="StringProcess" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StringProcess_test.iml" filepath="$PROJECT_DIR$/.idea/modules/StringProcess_test.iml" group="StringProcess" />
+    </modules>
+  </component>
+</project>
